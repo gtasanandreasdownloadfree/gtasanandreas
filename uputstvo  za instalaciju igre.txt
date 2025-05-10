@@ -1,0 +1,7 @@
+HVALA VAM ŠTO STE PREUZELI NAŠU JEZIČKU VERZIJU ZA GTA SAN ANDREAS!
+1.FAJL american.gxt SELEKTUJTE
+2.DESNI KLIK PA NA OPCIJU CUT(ISECI)
+3.OTIĐITE U GTA SAN ANDREAS FAJL PA NA text FOLDER
+4.TU NALIJEPITE ONO ŠTO STE ISJEKLI
+5.KADA POKRENETE IGRU TREBALA BI BITI NA SRPSKO JEZIKU
+NAPOMENA:"u fajlu text može biti samo jedan fajlo american.gxt,i nikako nemojte brisati fajl koji bude bio tu već ga sacuvajte na neko mjesto na pc"
